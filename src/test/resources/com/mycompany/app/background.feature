@@ -5,7 +5,7 @@ Feature: Background Feature
     And I get paid
 
   @smoke @TEST_WOO-2
-  Scenario: Test1
+  Scenario: Test111
     Given I have "first" task
     And Step from "First Hello" in "Background Feature" feature file
     When I attempt to solve it
