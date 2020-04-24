@@ -1,8 +1,7 @@
-Feature:
-
-
-  @TEST_WOO-9 @hello
-  Scenario: Test3
+Feature: Data Tables Feature
+  #here you pack data into a complex structure as test argument
+  @regression   @hello @antoo
+  Scenario: First Hellol
     Given I have "first" task
     And Step from "First Hello" in "Data Tables Feature" feature file
     When I attempt to solve it
