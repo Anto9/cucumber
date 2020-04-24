@@ -1,8 +1,8 @@
 Feature:
 
 
-  @hello @WOO-2
-  Scenario: First Hello
+  @hello @TEST_WOO-3
+  Scenario: Test2
 
     Given I have "first" task
     And Step from "First Hello" in "First Feature" feature file
