@@ -1,4 +1,4 @@
-node() {555a9043-50da-4df0-bc8d-28fc9f0ba888
+node() {
 
     def repoURL = 'https://github.com/Anto9/cucumber.git'
 
