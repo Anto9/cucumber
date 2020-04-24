@@ -1,7 +1,7 @@
 Feature:
 
 
-  @TEST_WOO-4 @hello
+  @TEST_WOO-9 @hello
   Scenario: Test3
     Given I have "first" task
     And Step from "First Hello" in "Data Tables Feature" feature file
