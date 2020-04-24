@@ -1,4 +1,4 @@
-node() {
+node() {555a9043-50da-4df0-bc8d-28fc9f0ba888
 
     def repoURL = 'https://github.com/Anto9/cucumber.git'
 
@@ -28,9 +28,9 @@ node() {
 
 		def description = "[BUILD_URL|${env.BUILD_URL}]"
 		def labels = '["regression","automated_regression"]'
-		def environment = "DEV"
-		def testExecutionFieldId = 10202
-		def testEnvironmentFieldName = "customfield_10425"
+		def environment = "DEV"uv
+		def testExecutionFieldId = 10302
+		def testEnvironmentFieldName = "customfield_12426"
 		def projectKey = "WOO"
 		def xrayConnectorId = '5cf97b8c-93ad-41be-b51f-4efc6565b385'
 		def info = '''{
